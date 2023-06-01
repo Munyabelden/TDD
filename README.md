@@ -24,12 +24,13 @@
 
 # 📖 TDD <a name="about-project"></a>
 
-This is a ruby application library that contain data about people i.e students, teachers and name of books. It also allows you to add remove people and books, you ca also rent the books and the application keeps track of all this data 
+This is a ruby TDD practise with rspec.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - [ ] Ruby
 - [ ] Linters
+- [ ] RSpec
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -41,8 +42,7 @@ This is a ruby application library that contain data about people i.e students, 
 
 ### Key Features <a name="key-features"></a>
 
-- **Data presevation**
-- **Unit testing**
+- **RSpec testing**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -64,7 +64,7 @@ Clone this repository to your desired folder:
 
 Clone this link to your local mechine
 ```
-git clone https://github.com/Munyabelden/Oop_Library.git
+git clone https://github.com/Munyabelden/TDD.git
 ```
 
 ### Usage
@@ -73,7 +73,6 @@ To run the project, execute the following command:
 
 ```
   bundle install
-  ruby main.rb
 ```
 
 ### Install
@@ -81,7 +80,7 @@ To run the project, execute the following command:
 Install this project with:
 
 ```
-cd Oop_Library
+cd TDD
 sudo install ruby
 ```
 
@@ -116,7 +115,7 @@ sudo install ruby
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Munyabelden/Oop_Library/issues).
+Feel free to check the [issues page](https://github.com/Munyabelden/TDD/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +133,6 @@ I would like to thank Ruby documentation and Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Munyabelden/Oop_Library/blob/develop/LICENSE) licensed.
+This project is [MIT](https://github.com/Munyabelden/TDD/blob/develop/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
