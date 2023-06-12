@@ -1,6 +1,6 @@
-require_relative 'solver.rb'
+require_relative 'solver'
 
-RSpec.describe "Solver" do
+RSpec.describe 'Solver' do
   describe '#factorial' do
     context 'If the number is less than 0' do
       it 'raises an ArgumentError' do
